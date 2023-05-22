@@ -24,7 +24,7 @@ To see a video demo of the project, click below:
   Sorry, your browser doesn't support embedded videos.
 </video>
 
-[![Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=xcn-0LyX6JY)
+[![Demo](https://static.packt-cdn.com/products/9781849698863/graphics/B00100_04_01.jpg)](https://www.youtube.com/watch?v=xcn-0LyX6JY)
 
 ## Features
 
