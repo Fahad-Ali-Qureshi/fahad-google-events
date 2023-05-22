@@ -1,4 +1,4 @@
-# fahad-google-events
+# fahad-google-events in REACT NATIVE
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -8,11 +8,11 @@ It's a project created in React Native having mainly Google Maps integration wit
 
 - [Features](#features)
 - [Demo](#demo)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Integration](#api-integration)
 - [Dependencies](#dependencies)
+- [Screenshots](#screenshots)
 - [License](#license)
 - [Author](#author)
 
@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=z38wvF_0ZvY
 
 Install the release APK in your Android via this Link [this Link](installables/FahadGoogleEvents%20V23.05.22.02.apk)
 
-OR by navigating to installables folder manually in this repo where release APK is named as FahadGoogleEvents%20V23.05.22.02.apk
+OR by navigating to installables folder manually in this repo where release APK is named as FahadGoogleEvents V23.05.22.02.apk
 
 ## Usage
 
