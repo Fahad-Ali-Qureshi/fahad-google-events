@@ -1,8 +1,8 @@
-# Project Name
+# fahad-google-events
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Short project description goes here.
+It's a project created in React Native having mainly Google Maps integration with any location venues with different color MapMarkers and horizontal scrollable cards.
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ Short project description goes here.
 
 To see a video demo of the project, click below:
 
-<video src="demo/demo_video.mp4" controls autoplay loop muted>
+<video src="videos/FahadGoogleEventsReactNative.mp4" controls autoplay loop muted>
   Sorry, your browser doesn't support embedded videos.
 </video>
 
@@ -33,8 +33,26 @@ To see a video demo of the project, click below:
 
 Include a few screenshots of your app to visually showcase its UI and functionality. You can add captions to explain each screenshot if needed.
 
-![Screenshot 1](screenshots/screenshot1.png)
-_Caption for Screenshot 1._
+![Screenshot 1](screenshots/Screenshot_20230522-023931_FahadGoogleEvents.jpg)
+_Splash screen_
+
+![Screenshot 2](screenshots/Screenshot_20230522-023945_FahadGoogleEvents.jpg)
+_Getting venues from API_
+
+![Screenshot 2](screenshots/Screenshot_20230522-023957_FahadGoogleEvents.jpg)
+_Focused on first venue_
+
+![Screenshot 2](screenshots/Screenshot_20230522-024050_FahadGoogleEvents.jpg)
+_Horizontally scrolled to another venue_
+
+![Screenshot 2](screenshots/Screenshot_20230522-024110_FahadGoogleEvents.jpg)
+_Multiple venues as different color map markers on map_
+
+![Screenshot 2](screenshots/Screenshot_20230522-024158_FahadGoogleEvents.jpg)
+_Zoomed out to see different country markers_
+
+![Screenshot 2](screenshots/Screenshot_20230522-024224_FahadGoogleEvents.jpg)
+_Exception handling with Toast_
 
 ![Screenshot 2](screenshots/screenshot2.png)
 _Caption for Screenshot 2._
@@ -66,4 +84,3 @@ This project is licensed under the [MIT License](LICENSE.md).
 - Specialization: Cross-platform mobile app development
 
 Include any other relevant information about yourself or your work.
-
