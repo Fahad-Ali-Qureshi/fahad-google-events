@@ -6,8 +6,8 @@ It's a project created in React Native having mainly Google Maps integration wit
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
+- [Demo](#demo)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,20 +16,16 @@ It's a project created in React Native having mainly Google Maps integration wit
 - [License](#license)
 - [Author](#author)
 
-## Demo
-
-To see a video demo of the project, click below:
-
-<video src="videos/FahadGoogleEventsReactNative.mp4" controls autoplay loop muted>
-  Sorry, your browser doesn't support embedded videos.
-</video>
-
-[![Demo](https://static.packt-cdn.com/products/9781849698863/graphics/B00100_04_01.jpg)](https://www.youtube.com/watch?v=xcn-0LyX6JY)
-
 ## Features
 
 - List the main features of your app here.
 - Describe each feature in a few sentences.
+
+## Demo
+
+To see a video demo of the project, click below:
+
+![Demo](gifs/LowResolutionGIF.gif)
 
 ## Screenshots
 
