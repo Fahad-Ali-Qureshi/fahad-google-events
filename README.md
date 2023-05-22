@@ -23,7 +23,8 @@ To see a video demo of the project, click below:
 <video src="videos/FahadGoogleEventsReactNative.mp4" controls autoplay loop muted>
   Sorry, your browser doesn't support embedded videos.
 </video>
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=xcn-0LyX6JY)
+
+[![Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=xcn-0LyX6JY)
 
 ## Features
 
