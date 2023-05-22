@@ -23,9 +23,15 @@ It's a project created in React Native having mainly Google Maps integration wit
 
 ## Demo
 
-To see a video demo of the project, click below:
+This is a low resolution short GIF to auto-play here.
 
 ![Demo](gifs/LowResolutionGIF.gif)
+
+To see a video demo of the project, click below youtube link:
+
+[Youtube Link](https://youtu.be/z38wvF_0ZvY)
+
+https://youtu.be/z38wvF_0ZvY
 
 ## Screenshots
 
