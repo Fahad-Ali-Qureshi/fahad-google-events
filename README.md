@@ -52,14 +52,19 @@ OR by navigating to installables folder manually in this repo where release APK 
 ## Usage
 
 Clone or download this project source.
+
 Place your GEO_API_KEY in AndroidManifest.xml located at: `android\app\src\main\AndroidManifest.xml`
+
 Place your VENUE_API_URL in AppStrings.js in BaseURL property located at: `src\utilities\AppStrings.js`
+
 Run command in terminal: `yarn install`
+
 Run project using this command: `npx react-native run-android`
 
 ## API Integration
 
 API is integrated via Axios.
+
 To get venues data from your API, Place your VENUE_API_URL in AppStrings.js in BaseURL property located at: `src\utilities\AppStrings.js`
 
 ## Dependencies
