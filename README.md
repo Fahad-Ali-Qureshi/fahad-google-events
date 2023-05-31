@@ -102,6 +102,13 @@ _Zoomed out to see different country markers_
 ![Screenshot 2](screenshots/Screenshot_20230522-024224_FahadGoogleEvents.jpg)
 _Exception handling with Toast_
 
+
+## Icon Attributions
+
+<a href="https://www.flaticon.com/free-icons/star" title="star icons">Star icons created by Pixel perfect - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/refresh" title="refresh icons">Refresh icons created by Dave Gandy - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/venue" title="venue icons">Venue icons created by Vectorslab - Flaticon</a>
+
 ## Author
 
 - Name: Fahad Ali Qureshi
